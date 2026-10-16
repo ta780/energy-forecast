@@ -71,3 +71,5 @@ pip install -r requirements.txt
 ## Автор
 
 Артём(ta780)
+
+
